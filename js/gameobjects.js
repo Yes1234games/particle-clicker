@@ -25,13 +25,13 @@ var GameObjects = (function() {
                                name : 'Give your lab an awesome name!',
                                detector : 1,
                                factor : 5,
-                               data : 0,
-                               money : 0,
-                               reputation : 0,
+                               data : 9999999999999999999999999999999999,
+                               money : 999999999999999999999999999999999999,
+                               reputation : 9999999999999999999999999999999,
                                clicks : 0,
-                               moneyCollected : 0,
+                               moneyCollected : 99999999999999,
                                moneySpent : 0,
-                               dataCollected : 0,
+                               dataCollected : 999999999999999,
                                dataSpent : 0,
                                time: 0
                              }
